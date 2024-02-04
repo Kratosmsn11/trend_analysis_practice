@@ -1,0 +1,11 @@
+Serial Number,Title,Status,Labels,Created Date,Resolution Status,Updated Date,Resolution Date,Assignee,Reporter
+3732,Issue 3732,open,Task,2023-03-02,resolved,2023-08-15,2023-08-15,Assignee 1,Reporter 2
+7324,Issue 7324,in-progress,Login,2023-12-20,resolved,2023-09-07,2023-09-07,Assignee 2,Reporter 3
+4769,Issue 4769,open,Registration,2023-09-08,unresolved,2023-09-08,None,Assignee 5,Reporter 1
+6388,Issue 6388,in-progress,Login,2023-10-16,unresolved,2023-10-16,,Assignee 5,Reporter 2
+1756,Issue 1756,in-progress,Login,2023-12-11,resolved,2023-03-20,2023-03-20,Assignee 2,Reporter 3
+8902,Issue 8902,done,Spouse,2023-09-29,resolved,2023-03-20,2023-03-20,Assignee 3,Reporter 4
+7190,Issue 7190,in-progress,Spouse,2023-07-06,unresolved,2023-07-06,None,Assignee 4,Reporter 2
+6635,Issue 6635,done,CRM,2023-05-25,resolved,2023-05-08,2023-05-08,Assignee 5,Reporter 1
+9197,Issue 9197,in-progress,CRM,2023-09-10,resolved,2023-09-07,2023-09-07,Assignee 1,Reporter 5
+8678,Issue 8678,open,Visova,2023-08-02,resolved,2023-10-27,2023-10-27,Assignee 5,Reporter 3
